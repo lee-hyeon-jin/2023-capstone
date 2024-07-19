@@ -7,4 +7,4 @@
 팀원 : 김민규, 박민지, 조재림
 
 진행내용 : 음원 추출, 음원 분리 라이브러리 사용, MFCC 시각화, 음역 추출 알고리즘 탐색
-사용한 Python 라이브러리 : Pytube, Spleeter, Librosa
+주요 Python 라이브러리 : Pytube, Spleeter, Librosa, Matplotlib, pretty_midi
